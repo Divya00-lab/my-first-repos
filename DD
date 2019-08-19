@@ -1,0 +1,31 @@
+git
+git init
+git status
+git add .
+git commit -m "initial state"
+git config 1.press user name
+        2.khedkardivya836@gmail.com
+then type-  get commit -m "initial state"
+to check the commit-git status
+git status
+git add .
+git status
+git commit -m "added second paragraph"
+git log //commits will be shown
+git add .
+git status
+git commit -m "added header"
+git log
+git checkout 'id must be pasted'
+git checkout master
+git checkout -- .
+git reset --hard 'paste id'
+git branch //to check current branch wherein we are
+git checkout -b 'login' //creating new branch
+git log
+git add .
+git status
+git commit -m "login page"
+git checkout master
+git merge login //merging both master n login branch
+git branch -D login
